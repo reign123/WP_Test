@@ -1,0 +1,61 @@
+td.form {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #ffffff;
+	background-color: #5B81A8
+}
+
+.searchForm{
+	padding-left: 5px;
+	padding-right: 15px;
+	padding-top: 10px;
+	font-family: Tahoma;
+	font-size: 11px;
+	color: black;
+	background-color: #5B81A8
+}
+
+.ID{
+	text-decoration: none;
+	font-size: 14px;
+	color: white;
+}
+
+.wel {
+	padding-left: 5px;
+	padding-right: 15px;
+	padding-top: 10px;
+	color: #CED9E5;
+}
+
+.pres {
+	padding-left: 25px;
+	padding-right: 20px;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+.te {
+	text-align: center;
+	font-size: 47px;
+	color: white;
+}
+
+a.submitUrl {
+	text-decoration: none;
+	font-size: 15px;
+	color: white;
+	background-color: #5B81A8
+}
+a.section{
+	text-decoration: none;
+	font-size: 12px;
+	color: white;
+}
+
+.forwardMain {
+	font-size: 15px;
+	text-align: center;
+	background-color: #5B81A8;
+	padding-top: 20px;
+}

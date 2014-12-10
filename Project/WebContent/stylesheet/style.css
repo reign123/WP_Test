@@ -1,0 +1,84 @@
+td.form {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #ffffff;
+	background-color: #5B81A8
+}
+
+div.righT{
+	border:10px;
+	float:right;
+	font-size: 14px;
+	padding-right: 150px;
+	padding-top:20px;
+}
+
+div.content{
+	clear: both;
+	border-style: solid;
+	border-color: black;
+	border: 2px;
+}
+
+div.question{
+	clear:both;
+	text-align:center;
+}
+
+.center{
+	width: 60%;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+}
+
+.profile_box{
+	width: 100px;
+	height: 100px;
+}	
+
+.profile_img{
+	font-color:black;
+	border: 1px solid;
+	width: 100px;
+	height: 100px;
+}		
+
+.use{
+	clear:both;
+}
+
+.wel {
+	padding-left: 5px;
+	padding-right: 15px;
+	padding-top: 10px;
+	color: #CED9E5;
+}
+
+.pres {
+	padding-left: 25px;
+	padding-right: 20px;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+.te {
+	text-align: center;
+	font-size: 47px;
+	color: white;
+	clear: both;
+}
+
+a.submitUrl {
+	text-decoration: none;
+	font-size: 15px;
+	color: white;
+	background-color: #5B81A8
+}
+
+.forwardMain {
+	font-size: 15px;
+	text-align: center;
+	background-color: #5B81A8;
+	padding-top: 20px;
+}
